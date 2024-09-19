@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main() {
+  char str;
+  printf("Enter a string as an input");
+  scanf("%s", &str);
+  printf("The entered string is %s", str);
+}
